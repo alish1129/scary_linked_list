@@ -17,7 +17,6 @@ You are to write a program that reads a data file of first and last names and in
 •	Also your program should be able to print out sections of names, for example it should be able to print all peoples names that start with an “A”, “B”, etc. 
 •	 To do so, you need to make an index that has links into your list for each letter of the alphabet.  If there are no entries for a particular letter, your link should point to NULL and if those names are requested, your program should inform the user.
 
- 
 <strong>Code requirements</strong>
 1.	You must have separate functions for each list operation (i.e insert, empty, delete, etc.)  Make your own functions, do not use built in functions from JAVA, C++, etc.
 2.	No GUI’s required, concentrate on the functionality.

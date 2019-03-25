@@ -4,6 +4,7 @@
 
 You are to write a program that reads a data file of numbers and inserts them into a list in the correct sorted position.  Your program should have the following functionality:
 
+<pre>
 •	Ask user for file name to read from.
 •	Read in data from the file, numbers.txt.  The numbers will be between 0 and 100.
 •	Data should be inserted in the appropriate place.
@@ -20,4 +21,4 @@ Code requirements
 2.	No GUI’s required, concentrate on the functionality.
 3.	JAVA or C/C variant
 4.	No fancy built in types will be accepted.  Make your own structures, your own functions, etc.
- 
+ </pre>
